@@ -4,7 +4,7 @@ package hw4JavaVariables;
 public class AboutMe {
 
 	// Variables declared:
-	public String name;
+	public String name; //
 	public byte age;
 	public short myWeight;
 	public int myMonthlySalary;
