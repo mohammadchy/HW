@@ -3,11 +3,11 @@ package hw5Q2Constructor;
 public class Computer {
 	// variables are declared.
 	public String brand;
-	private String model;
-	private String operatingSystem;
-	private double price;
-	private char grade;
-	private boolean madeInUSA;
+	public String model;
+	public String operatingSystem;
+	public double price;
+	public char grade;
+	public boolean madeInUSA;
 	
 	// default Constructor declared.
 	public Computer() {
