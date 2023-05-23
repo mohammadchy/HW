@@ -13,5 +13,7 @@ public class Computertest {
 		Computer customComputer = new Computer("Apple", "MacBook Air", "MacOS Mojave", 800.0, 'A', false);
 
 		Computer thirdComputer = new Computer("Custom Brand", "Custom Model", "Custom OS", 1000.0, 'B', true);
+	
+	
 	}
 }
