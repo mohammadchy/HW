@@ -8,7 +8,7 @@ public class Computertest {
 		// Default Constructor Initialized
 		Computer defaultComputer = new Computer();
 
-		// Parameterized Constructor 03 initialized.
+		// Parameterized Constructor initialized.
 		// We can initialize parameters more than one time by creating different object.
 		Computer customComputer = new Computer("Apple", "MacBook Air", "MacOS Mojave", 800.0, 'A', false);
 
