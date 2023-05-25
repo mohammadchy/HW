@@ -11,6 +11,7 @@ public class MyCar {
 		System.out.println("\tThe color of my car is Black, " + " its a \'AWD\', "+" and the interior of my car is White. The seats are very comfortable.");
 		System.out.println("\tThis is my 3rd Car.");
 		System.out.println("\tI love my Car.");
+		
 
          //println() -- print line by line.
 		// print() -- print continously, not line by line, but it has to be readable for others and easier to edit.

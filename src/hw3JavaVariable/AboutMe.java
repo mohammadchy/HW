@@ -17,9 +17,8 @@ public class AboutMe {
 	public boolean uscitizen = true;
 
 	public static void main(String[] args) {
-
 		AboutMe grandpa = new AboutMe();
-		
+
 		System.out.println("My Name is: " + grandpa.name1);
 		System.out.println("My age is:" + grandpa.age + ", and My Weight: " + grandpa.myWeight);
 		System.out.println("My height is:" + grandpa.myHeight + "\nMy Monthly Salary: " + grandpa.myMonthlySalary
