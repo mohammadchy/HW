@@ -20,7 +20,7 @@ public class AboutMeTest {
 		rash.aboutMe();
 		System.out.println("\n-----------------------------------------------------------------------\n");
 		
-		//Instantiate AboutMe class for your best friend Mamun.
+		//Instantiate AboutMe class for your best friend Alex.
 		AboutMe alex = new AboutMe();
 	    alex.name = "Alex";
 		alex.age = 48;
