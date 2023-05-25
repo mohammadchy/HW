@@ -2,10 +2,10 @@ package hw3JavaVariable;
 
 public class AboutMe {
 
-	// Variable has declared- number 6
+	// Variable is declared.
 	public String name;
 
-	// Variable has initialaized - number from 10-18
+	// Variable is initialaized.
 	public String name1 = "Rash Chowdhury";
 	public byte age = 100;
 	public short myWeight = 180;
